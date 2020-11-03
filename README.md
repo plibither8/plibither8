@@ -1,3 +1,1 @@
-### Hi! Mihir here :)
-
-You can get to know more about me **on website here: [mihir.ch](https://mihir.ch)** until I get a chance to update this :).
+<img src="namaste.svg" alt="Namaste! Mihir here :)" width="100%"/>
