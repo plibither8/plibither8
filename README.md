@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="logo.svg" alt="Muh" height="300"/>
+  <a href="https://mihir.ch">
+    <img src="logo.svg" alt="Muh" height="300"/>
+  </a>
 </p>
 
 ## नमस्ते!
