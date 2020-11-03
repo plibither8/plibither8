@@ -1,4 +1,8 @@
-## <img src="logo.svg" alt="Muh"/> नमस्ते!
+<p align="center">
+  <img src="logo.svg" alt="Muh" height="300"/>
+</p>
+
+## नमस्ते!
 
 I'm Mihir, a frontend and UX developer from India :india:, currently building web applications, microservices, [etc etc.](https://mihir.ch/projects)
 
@@ -10,4 +14,6 @@ But seriously, check out my website to know more about my work: **[mihir.ch](htt
 
 <br>
 
-<sup>Good times, good times.</sup>
+<p align="right">
+  <sup>Good times, good times.</sup>
+</p>
