@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://mihir.ch">
-    <img src="logo.svg" alt="Muh" height="300"/>
+    <img src="logo.svg" alt="Muh" height="250"/>
   </a>
 </p>
 
