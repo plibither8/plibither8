@@ -8,7 +8,7 @@
 
 I'm Mihir, a frontend and UX developer from India :india:, building web applications, microservices, [etc etc](https://mihir.ch/projects).
 
-Currently, I'm working at [Pabio](https://pabio.com) as a JavaScript engineer.
+Currently, I'm interning at [Sourcegraph](https://about.sourcegraph.com) as a software engineer part of the Frontend Platform team.
 
 I go by **plibither8** on most networks: [Twitter](https://twitter.com/plibither8), [LinkedIn](https://linkedin.com/in/plibither8), [Hacker News](https://news.ycombinator.com/user?id=plibither8), [Keybase](https://keybase.io/plibither8), [Instagram](https://www.instagram.com/plibither8), [Last.fm](https://last.fm/user/plibither8), [Spotify](https://open.spotify.com/user/tmf5wfz6mzs6cca830in4tm1m).
 
